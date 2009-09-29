@@ -1,0 +1,50 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual C++ Express 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "scanner", "scanner\scanner.vcproj", "{901D24E1-1505-4736-BCCA-A0F9D6B23B07}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "test", "..\..\test\test.vcproj", "{B82492C9-92CD-4465-99AA-8868E2342844}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "magenta", "magenta\magenta.vcproj", "{2B2C348E-D100-476F-AE65-2E991C40CB5C}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "coarse_graining", "coarse_graining\coarse_graining.vcproj", "{CF5AF1E7-FE75-4C4D-8A96-F24F1666A3B7}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "bottom_detector", "bottom_detector\bottom_detector.vcproj", "{B1FE5BDD-7093-4A1E-9E78-D949942DB94A}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "slope_detector", "slope_detector\slope_detector.vcproj", "{F876BF15-FAF2-4275-88C6-C4DB2C7B2DBB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{901D24E1-1505-4736-BCCA-A0F9D6B23B07}.Debug|Win32.ActiveCfg = Debug|Win32
+		{901D24E1-1505-4736-BCCA-A0F9D6B23B07}.Debug|Win32.Build.0 = Debug|Win32
+		{901D24E1-1505-4736-BCCA-A0F9D6B23B07}.Release|Win32.ActiveCfg = Release|Win32
+		{901D24E1-1505-4736-BCCA-A0F9D6B23B07}.Release|Win32.Build.0 = Release|Win32
+		{B82492C9-92CD-4465-99AA-8868E2342844}.Debug|Win32.ActiveCfg = Debug|Win32
+		{B82492C9-92CD-4465-99AA-8868E2342844}.Debug|Win32.Build.0 = Debug|Win32
+		{B82492C9-92CD-4465-99AA-8868E2342844}.Release|Win32.ActiveCfg = Release|Win32
+		{B82492C9-92CD-4465-99AA-8868E2342844}.Release|Win32.Build.0 = Release|Win32
+		{2B2C348E-D100-476F-AE65-2E991C40CB5C}.Debug|Win32.ActiveCfg = Debug|Win32
+		{2B2C348E-D100-476F-AE65-2E991C40CB5C}.Debug|Win32.Build.0 = Debug|Win32
+		{2B2C348E-D100-476F-AE65-2E991C40CB5C}.Release|Win32.ActiveCfg = Release|Win32
+		{2B2C348E-D100-476F-AE65-2E991C40CB5C}.Release|Win32.Build.0 = Release|Win32
+		{CF5AF1E7-FE75-4C4D-8A96-F24F1666A3B7}.Debug|Win32.ActiveCfg = Debug|Win32
+		{CF5AF1E7-FE75-4C4D-8A96-F24F1666A3B7}.Debug|Win32.Build.0 = Debug|Win32
+		{CF5AF1E7-FE75-4C4D-8A96-F24F1666A3B7}.Release|Win32.ActiveCfg = Release|Win32
+		{CF5AF1E7-FE75-4C4D-8A96-F24F1666A3B7}.Release|Win32.Build.0 = Release|Win32
+		{B1FE5BDD-7093-4A1E-9E78-D949942DB94A}.Debug|Win32.ActiveCfg = Debug|Win32
+		{B1FE5BDD-7093-4A1E-9E78-D949942DB94A}.Debug|Win32.Build.0 = Debug|Win32
+		{B1FE5BDD-7093-4A1E-9E78-D949942DB94A}.Release|Win32.ActiveCfg = Release|Win32
+		{B1FE5BDD-7093-4A1E-9E78-D949942DB94A}.Release|Win32.Build.0 = Release|Win32
+		{F876BF15-FAF2-4275-88C6-C4DB2C7B2DBB}.Debug|Win32.ActiveCfg = Debug|Win32
+		{F876BF15-FAF2-4275-88C6-C4DB2C7B2DBB}.Debug|Win32.Build.0 = Debug|Win32
+		{F876BF15-FAF2-4275-88C6-C4DB2C7B2DBB}.Release|Win32.ActiveCfg = Release|Win32
+		{F876BF15-FAF2-4275-88C6-C4DB2C7B2DBB}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
